@@ -1,0 +1,41 @@
+/* Sequoia Sequoia Moonlight Dark for Obsidian */
+.theme-dark {
+  --background-primary: #0f1014;
+  --background-primary-alt: #0f1014;
+  --background-secondary: #111216;
+  --background-secondary-alt: #0f1014;
+  --text-normal: #868690;
+  --text-muted: #575861;
+  --text-faint: #575861;
+  --text-accent: #ffbb88;
+  --text-accent-hover: #f58ee0;
+  --text-on-accent: #0f1014;
+  --interactive-accent: #ffbb88;
+  --interactive-accent-hover: #f58ee0;
+  --text-selection: #817c9c26;
+  --text-link: #f58ee0;
+  --text-a: #f58ee0;
+  --text-a-hover: #8eb6f5;
+  --text-mark: #c58fff;
+  --text-tag: #9898a6;
+  --markup-code: #9898a6;
+  --code-normal: #9898a6;
+  --code-comment: #43444d;
+  --code-function: #f58ee0;
+  --code-keyword: #8eb6f5;
+  --code-important: #f58ee0;
+  --code-property: #c58fff;
+  --code-punctuation: #575861;
+  --code-string: #9898a6;
+  --code-tag: #c58fff;
+  --code-value: #8eb6f5;
+  --blockquote-border: #f58ee0;
+  --titlebar-background: #0f1014;
+  --titlebar-background-focused: #0f1014;
+  --tab-background-active: #0f1014;
+  --tab-text-color-focused-active: #868690;
+  --nav-item-background-hover: #817c9c26;
+  --nav-item-background-active: #817c9c26;
+  --checkbox-color: #ffbb88;
+  --checkbox-color-hover: #f58ee0;
+}

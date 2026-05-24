@@ -1,0 +1,41 @@
+/* Sequoia Sequoia Moonlight Light for Obsidian */
+.theme-light {
+  --background-primary: #edeef2;
+  --background-primary-alt: #edeef2;
+  --background-secondary: #e2e3e8;
+  --background-secondary-alt: #edeef2;
+  --text-normal: #282930;
+  --text-muted: #42434e;
+  --text-faint: #42434e;
+  --text-accent: #d9884a;
+  --text-accent-hover: #c94da8;
+  --text-on-accent: #0f1014;
+  --interactive-accent: #d9884a;
+  --interactive-accent-hover: #c94da8;
+  --text-selection: #817c9c38;
+  --text-link: #c94da8;
+  --text-a: #c94da8;
+  --text-a-hover: #4a85d4;
+  --text-mark: #9a5fd9;
+  --text-tag: #6a6a78;
+  --markup-code: #6a6a78;
+  --code-normal: #6a6a78;
+  --code-comment: #565760;
+  --code-function: #c94da8;
+  --code-keyword: #4a85d4;
+  --code-important: #c94da8;
+  --code-property: #9a5fd9;
+  --code-punctuation: #42434e;
+  --code-string: #6a6a78;
+  --code-tag: #9a5fd9;
+  --code-value: #4a85d4;
+  --blockquote-border: #c94da8;
+  --titlebar-background: #edeef2;
+  --titlebar-background-focused: #edeef2;
+  --tab-background-active: #edeef2;
+  --tab-text-color-focused-active: #282930;
+  --nav-item-background-hover: #817c9c38;
+  --nav-item-background-active: #817c9c38;
+  --checkbox-color: #d9884a;
+  --checkbox-color-hover: #c94da8;
+}
