@@ -1,0 +1,32 @@
+/* Sequoia Sequoia Retro Light for Obsidian */
+.theme-light {
+  --background-primary: #edeef2;
+  --background-primary-alt: #edeef2;
+  --background-secondary: #e2e3e8;
+  --background-secondary-alt: #edeef2;
+  --text-normal: #282930;
+  --text-muted: #42434e;
+  --text-faint: #42434e;
+  --text-accent: #8a6539;
+  --text-accent-hover: #5f7982;
+  --text-on-accent: #0f1014;
+  --interactive-accent: #8a6539;
+  --interactive-accent-hover: #5f7982;
+  --text-selection: #817c9c38;
+  --text-link: #5f7982;
+  --code-normal: #bf5238;
+  --code-comment: #565760;
+  --code-function: #5f7982;
+  --code-keyword: #4a704e;
+  --code-important: #5f7982;
+  --code-property: #456a82;
+  --code-punctuation: #42434e;
+  --code-string: #bf5238;
+  --code-tag: #456a82;
+  --code-value: #4a704e;
+  --titlebar-background: #edeef2;
+  --tab-background-active: #edeef2;
+  --nav-item-background-hover: #817c9c38;
+  --nav-item-background-active: #817c9c38;
+  --checkbox-color: #8a6539;
+}
