@@ -1,9 +1,29 @@
 /* Sequoia Sequoia Moonlight Light for Obsidian */
-.theme-light {
+body.theme-light {
+  color-scheme: light;
+  --accent-h: 26;
+  --accent-s: 65%;
+  --accent-l: 57%;
+  --color-base-00: #edeef2;
+  --color-base-05: #edeef2;
+  --color-base-10: #edeef2;
+  --color-base-20: #e2e3e8;
+  --color-base-25: #e2e3e8;
+  --color-base-30: #42434e;
+  --color-base-35: #42434e;
+  --color-base-40: #42434e;
+  --color-base-50: #42434e;
+  --color-base-60: #42434e;
+  --color-base-70: #282930;
+  --color-base-100: #282930;
   --background-primary: #edeef2;
   --background-primary-alt: #edeef2;
   --background-secondary: #e2e3e8;
   --background-secondary-alt: #edeef2;
+  --background-modifier-border: #42434e40;
+  --background-modifier-border-hover: #42434e66;
+  --background-modifier-hover: #817c9c38;
+  --background-modifier-active-hover: #817c9c38;
   --text-normal: #282930;
   --text-muted: #42434e;
   --text-faint: #42434e;
@@ -25,7 +45,9 @@
   --code-tag: #9a5fd9;
   --code-value: #4a85d4;
   --titlebar-background: #edeef2;
+  --titlebar-background-focused: #edeef2;
   --tab-background-active: #edeef2;
+  --ribbon-background: #e2e3e8;
   --nav-item-background-hover: #817c9c38;
   --nav-item-background-active: #817c9c38;
   --checkbox-color: #d9884a;
