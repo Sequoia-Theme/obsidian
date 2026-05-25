@@ -1,0 +1,32 @@
+/* Sequoia Sequoia Retro Dark for Obsidian */
+.theme-dark {
+  --background-primary: #0f1014;
+  --background-primary-alt: #0f1014;
+  --background-secondary: #111216;
+  --background-secondary-alt: #0f1014;
+  --text-normal: #868690;
+  --text-muted: #575861;
+  --text-faint: #575861;
+  --text-accent: #a27e57;
+  --text-accent-hover: #829fa7;
+  --text-on-accent: #0f1014;
+  --interactive-accent: #a27e57;
+  --interactive-accent-hover: #829fa7;
+  --text-selection: #817c9c26;
+  --text-link: #829fa7;
+  --code-normal: #da674b;
+  --code-comment: #43444d;
+  --code-function: #829fa7;
+  --code-keyword: #648f68;
+  --code-important: #829fa7;
+  --code-property: #5c87a4;
+  --code-punctuation: #575861;
+  --code-string: #da674b;
+  --code-tag: #5c87a4;
+  --code-value: #648f68;
+  --titlebar-background: #0f1014;
+  --tab-background-active: #0f1014;
+  --nav-item-background-hover: #817c9c26;
+  --nav-item-background-active: #817c9c26;
+  --checkbox-color: #a27e57;
+}
